@@ -1,0 +1,40 @@
+[{
+        "question": "hassan",
+        "choice_1": "Sir Isaac Newton",
+        "choice_2": "Nicolaus Copernicus",
+        "choice_3": "Albert Einstein",
+        "choice_4": "Ralph Waldo Emmerson",
+        "correct": "Albert Einstein",
+        "explanation": "Albert Einstein drafted the special theory of relativity in 1905."
+    },
+    {
+        "question": "Eritrea, which became the 182nd member of the UN in 1993, is in the continent of",
+        "choice_1": "Asia",
+        "choice_2": "Africa",
+        "choice_3": "Europe",
+        "choice_4": "Australia",
+        "correct": "Africa",
+        "explanation": "No answer description available for this question."
+
+    },
+    {
+        "question": "Garampani sanctuary is located at",
+        "choice_1": "Junagarh, Gujarat",
+        "choice_2": "Diphu, Assam",
+        "choice_3": "Kohima, Nagaland",
+        "choice_4": "Gangtok, Sikkim",
+        "correct": "Diphu, Assam",
+        "explanation": "No answer description available for this question."
+
+    },
+    {
+        "question": "Garampani sanctuary is located at",
+        "choice_1": "Junagarh, Gujarat",
+        "choice_2": "Diphu, Assam",
+        "choice_3": "Kohima, Nagaland",
+        "choice_4": "Gangtok, Sikkim",
+        "correct": "Diphu, Assam",
+        "explanation": "No answer description available for this question."
+
+    }
+]
